@@ -137,7 +137,7 @@ In the worked scenario, counterfactual fairness testing returns a **disparate im
 **Certifications:** CCSP, (ISC)² · Certified AI Governance Specialist (CAIGS) · IBM InfoSphere Guardium · Tripwire Enterprise · ITIL v3 · Certified ScrumMaster
 **Education:** MBA (Systems), Periyar University · B.Sc. Computer Technology, K.S. Rangasamy College of Technology
 
-**Current role:** Security Specialist (VP), NatWest Group — directing the Group's global Database Activity Monitoring and File Integrity Monitoring control estate across 700+ enterprise databases spanning AWS, GCP and private cloud, in a multi-jurisdiction banking environment. Owns traceability from regulatory requirement through policy and control design to audit-ready evidence.
+**Current role:** Security Specialist (VP), NatWest Group — directing the Group's global Database Activity Monitoring and File Integrity Monitoring control estate across 800+ enterprise databases spanning AWS, GCP and private cloud, in a multi-jurisdiction banking environment. Owns traceability from regulatory requirement through policy and control design to audit-ready evidence.
 
 ---
 
