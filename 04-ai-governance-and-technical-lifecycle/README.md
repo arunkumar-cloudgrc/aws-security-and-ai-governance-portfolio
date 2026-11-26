@@ -1,7 +1,7 @@
 # 🧭 AI Governance for Credit Decisioning - Governing a High-Risk AI System End to End
 
 > **Portfolio role:** AI Governance Lead / Governance Design Authority
-> **System:** Credit Decisioning Assistant — hybrid deterministic scoring layer + RAG narration layer on Amazon Bedrock
+> **System:** Credit Decisioning Assistant — hybrid deterministic scoring layer + RAG narration layer
 > **Worked-scenario outcome:** Gate 2 blocks at a disparate impact ratio of **0.67** and clears at **0.89** after structural remediation
 > **Scale:** 44 governance artefacts · 20 tracked risks · 18 failure modes · scenario sizing assumption of ~870,000 annual retail applicants
 > **Lifecycle:** Five stage gates, dual-track — no technical milestone advances without its governance gate closing
@@ -56,7 +56,7 @@ flowchart LR
     RET --> RGC["🔴 Retrieved-Content Guardrail<br/><i>indirect injection · PII · poisoning checks</i>"]
 
     SCORE --> NAR
-    RGC --> NAR["🟣 Narration Layer<br/>Amazon Bedrock<br/><b>ONLY EXPLAINS</b><br/><i>never produces the score</i>"]
+    RGC --> NAR["🟣 Narration Layer<br/><i>never produces the score</i>"]
 
     NAR --> OUT["🔴 Output Guardrail<br/><i>grounding ≥ 0.75 block-on-fail<br/>PII redaction before return + log</i>"]
     OUT --> HITL{"Human-in-the-Loop"}
