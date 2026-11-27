@@ -377,4 +377,4 @@ This is Project 2 of a 4-project AWS Cloud Security Governance portfolio:
 | 3 | IAM Governance & Access Analysis | Access Analyzer, credential review, enterprise-IAM bridge |
 | 4 | AI Governance Framework (Bedrock) | AI risk register, guardrails policy, EU AI Act / ISO 42001 mapping |
 
-**Author:** Arunkumar Devaraj ; Cloud Security Architect | IAM & Governance | CCSP, 13 years enterprise security (IBM Guardium DAM, Tripwire FIM, enterprise IAM governance) transitioning into Cloud Security Architect / Cloud Governance Lead roles.
+**Author:** Arunkumar Devaraj - Cloud Security & AI Governance | CCSP, CAIGS | 21+ years enterprise IT, including 13+ years in security (IBM Guardium DAM, Tripwire FIM) within a global regulated bank | Targeting AI Governance, AI Risk, AI Assurance and Technology Risk roles.
