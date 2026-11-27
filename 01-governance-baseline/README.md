@@ -297,4 +297,4 @@ Each Annex A control needs an auditable evidence trail, not just a policy statem
   
 ---
 
-**Author:** Arunkumar Devaraj ; Cloud Security Architect | IAM & Governance | CCSP, 13 years enterprise security (IBM Guardium DAM, Tripwire FIM, enterprise IAM governance) transitioning into Cloud Security Architect / Cloud Governance Lead roles.
+**Author:** Arunkumar Devaraj - Cloud Security & AI Governance | CCSP, CAIGS | 21+ years enterprise IT, including 13+ years in security (IBM Guardium DAM, Tripwire FIM) within a global regulated bank | Targeting AI Governance, AI Risk, AI Assurance and Technology Risk roles.
