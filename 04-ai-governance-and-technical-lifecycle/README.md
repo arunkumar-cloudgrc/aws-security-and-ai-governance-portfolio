@@ -346,4 +346,4 @@ Forty-one of forty-four were extended or purpose-built.
 
 ---
 
-**Author:** Arunkumar Devaraj — Cloud Security & AI Governance | CCSP | 20+ years enterprise IT, including 12+ years in security (IBM Guardium DAM, Tripwire FIM) within a global regulated bank | Transitioning into AI Governance Lead / Cloud Governance Lead roles.
+**Author:** Arunkumar Devaraj — Cloud Security & AI Governance | CCSP | 21+ years enterprise IT, including 13+ years in security (IBM Guardium DAM, Tripwire FIM) within a global regulated bank | Transitioning into AI Governance Lead / Cloud Governance Lead roles.
